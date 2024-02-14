@@ -1,0 +1,6 @@
+@SmartWayTest_HostAddress = http://localhost:5053
+
+GET {{SmartWayTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
