@@ -1,1 +1,1 @@
-# SmartWayTest
+# Simple web api for example
